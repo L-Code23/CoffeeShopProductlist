@@ -1,0 +1,32 @@
+﻿@model List<Product>
+<h1>Menu</h1>
+<ul>
+    @{
+        foreach (Product p in Model)
+        {
+            <li><a asp-controller="Product" asp-action="Details" asp-route-id="@p.Id">@p.Name</a></li>
+        }
+    }
+</ul>
+    
+<h1>Categories</h1>
+<div>
+    @{
+        
+        
+            <li><a asp-controller="Product" asp-action="CategoryFood" asp-route-id=Type>Food</a></li>
+        
+    }
+    </ul> 
+    @{
+      
+        
+            <li><a asp-controller="Product" asp-action="CategoryDrinks" asp-route-id="Type">Drinks</a></li>
+        
+    }
+    </ul>
+
+</div>
+
+
+

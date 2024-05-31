@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|c:\\users\\ramse\\source\\repos\\coffeeshopproductlistlab\\coffeeshopproductlistlab\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|solutionrelative:coffeeshopproductlistlab\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|c:\\users\\ramse\\source\\repos\\coffeeshopproductlistlab\\coffeeshopproductlistlab\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|solutionrelative:coffeeshopproductlistlab\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|c:\\users\\ramse\\source\\repos\\coffeeshopproductlistlab\\coffeeshopproductlistlab\\views\\product\\type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|solutionrelative:coffeeshopproductlistlab\\views\\product\\type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|c:\\users\\ramse\\source\\repos\\coffeeshopproductlistlab\\coffeeshopproductlistlab\\models\\coffeeproductsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|solutionrelative:coffeeshopproductlistlab\\models\\coffeeproductsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|c:\\users\\ramse\\source\\repos\\coffeeshopproductlistlab\\coffeeshopproductlistlab\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|solutionrelative:coffeeshopproductlistlab\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|c:\\users\\ramse\\source\\repos\\coffeeshopproductlistlab\\coffeeshopproductlistlab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|solutionrelative:coffeeshopproductlistlab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|c:\\users\\ramse\\source\\repos\\coffeeshopproductlistlab\\coffeeshopproductlistlab\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ECE2D7A-7FA0-4A61-AF22-AC9FE132AD0D}|CoffeeShopProductListLab\\CoffeeShopProductListLab.csproj|solutionrelative:coffeeshopproductlistlab\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoffeeProductsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Models\\CoffeeProductsDbContext.cs",
+              "RelativeDocumentMoniker": "CoffeeShopProductListLab\\Models\\CoffeeProductsDbContext.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Models\\CoffeeProductsDbContext.cs",
+              "RelativeToolTip": "CoffeeShopProductListLab\\Models\\CoffeeProductsDbContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA4wAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:39:55.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CoffeeShopProductListLab\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CoffeeShopProductListLab\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwB8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:45:04.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopProductListLab\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShopProductListLab\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T18:46:37.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopProductListLab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeeShopProductListLab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:24:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoffeeShopProductListLab\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Models\\Product.cs",
+              "RelativeToolTip": "CoffeeShopProductListLab\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:28:02.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopProductListLab\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "CoffeeShopProductListLab\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T20:48:12.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Type.cshtml",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Product\\Type.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShopProductListLab\\Views\\Product\\Type.cshtml",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CoffeeShopProductListLab\\CoffeeShopProductListLab\\Views\\Product\\Type.cshtml",
+              "RelativeToolTip": "CoffeeShopProductListLab\\Views\\Product\\Type.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T02:56:46.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
